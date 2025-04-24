@@ -1,5 +1,5 @@
 const data = {
-  Name: "John Doe",
+  Name: "Vrajesh",
   Role: "Frontend Developer",
   Description:
     "I am a professional <strong>UX Designer</strong> and <strong>Front-End Developer</strong> creating modern and responsive designs for <strong>Web</strong> and <strong>Mobile</strong>. Let us work together. Thank you.",
